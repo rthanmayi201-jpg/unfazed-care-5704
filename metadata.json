@@ -1,0 +1,6 @@
+{
+  "name": "Unfazed - Practice Management for Therapists",
+  "description": "All-in-one private practice platform for mental health professionals in India: branded booking, scheduling, payments, clinical notes, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
